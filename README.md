@@ -22,7 +22,7 @@ Fun Fact: Artist + Creative Programmer + Krishna Devotee
 <a href="https://medium.com/@radheykd-Kajal" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="25" width="25" /></a>
 <br>
 <h1 align="center"> Kajal Lanjhiyana's GitHub Activity (⁠ﾉ⁠◕⁠ヮ⁠◕⁠)⁠ﾉ⁠*⁠.⁠✧</h1>  
-<p align="center"><a href="https://github.com/smilewithkhushi">
+<p align="center"><a href="https://github.com/Einsteinia11">
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=Einsteinia11&show_icons=true&locale=en&layout=compact" alt="Einsteinia11" />
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=Einsteinia11&show_icons=true&locale=en" alt="Einsteinia11" />
 <img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=Einsteinia11&" alt="Einsteinia11" /></p>
