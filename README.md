@@ -1,6 +1,6 @@
 <h1 align = "center"> Hey There!</h1>
 
-<img src = "https://user-images.githubusercontent.com/97274353/185661518-547b3080-b1b7-46b9-8b29-de14ed146f25.gif" height=100 width=100/>
+<img align="center" src = "https://user-images.githubusercontent.com/97274353/185661518-547b3080-b1b7-46b9-8b29-de14ed146f25.gif" height=100 width=100/>
 
 ```
 Name: Kajal Lanjhiyana
