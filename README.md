@@ -5,7 +5,7 @@
 Name: Kajal Lanjhiyana
 Education: In 2nd year BSC(Hons.) In Computer Science
 Location: Noida
-Fun Fact: Artist + Creative Programmer + Krishna Devotee
+Fun Fact: Artist + Creative Programmer
 ```
 ### Techincal Skills:<br/>
 <img src = "https://user-images.githubusercontent.com/97274353/185664521-2098cddc-cab1-4054-ad9b-07261f9b09d2.gif" height=200 width=200/><br/>
