@@ -21,7 +21,10 @@ Fun Fact: Artist + Creative Programmer
    <a href="https://twitter.com/__Kajal_L">
     <img align="left" alt="Kajal Lanjhiyana | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
-<a href="https://medium.com/@radheykd-Kajal" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="25" width="25" /></a>
+<a href="https://www.instagram.com/_kajal_lanjhiyana__/">
+    <img align="left" alt="Kajal Lanjhiyana | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+</a> 
+<a href="https://medium.com/@radheykd-Kajal" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Kajal Lanjhiyana" height="25" width="25" /></a>
 <br></h3>
 <h1 align="center"> Kajal Lanjhiyana's GitHub Activity (⁠ﾉ⁠◕⁠ヮ⁠◕⁠)⁠ﾉ⁠*⁠.⁠✧</h1>  
 <p align="center"><a href="https://github.com/Einsteinia11">
