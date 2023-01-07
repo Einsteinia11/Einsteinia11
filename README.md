@@ -14,7 +14,8 @@ Fun Fact: Artist + Creative Programmer
 </h3><br/>
 
 <h3 align = "left">Connect with me here:  <br/>
-
+<a href = "https://linktr.ee/__kajal_lanjhiyana_"> Linktree</a>
+    <h4> Or just Directly jump on..</h4>
 <a href="https://www.linkedin.com/in/radheykd-kajal/">
     <img align="left" alt="Kajal Lanjhiyana | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
