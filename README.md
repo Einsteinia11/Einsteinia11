@@ -4,7 +4,7 @@
 ```
 Name: Kajal Lanjhiyana
 Education: In 2nd year BSC(Hons.) In Computer Science
-Location: Noida
+Location: Indraprastha, Bharat
 Fun Fact: Artist + Creative Programmer
 ```
 <h2 align = "center">Techincal Skills:<br/>
