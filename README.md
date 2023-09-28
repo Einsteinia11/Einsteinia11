@@ -32,3 +32,5 @@ Fun Fact: Artist + Creative Programmer
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=Einsteinia11&show_icons=true&locale=en&layout=compact" alt="Einsteinia11" />
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=Einsteinia11&show_icons=true&locale=en" alt="Einsteinia11" />
 <img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=Einsteinia11&" alt="Einsteinia11" /></p>
+<h1 align="center"> Badges \⁠(⁠ϋ⁠)⁠/⁠♩</h1>  
+[![An image of @einsteinia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/einsteinia)](https://holopin.io/@einsteinia)
