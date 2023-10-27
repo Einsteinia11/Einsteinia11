@@ -1,6 +1,4 @@
-![Alt text]()
-<h1 align = "center"><br>Hey There!</h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Einsteinia11 alt=Einsteinia11/></p>
+<h1 align = "center"><br>Hey There!<br><img src = "https://raw.githubusercontent.com/Einsteinia11/ima/main/sun_flower.jpg" height=100 width = 100><p align="left"> <img src=https://komarev.com/ghpvc/?username=Einsteinia11 alt=Einsteinia11/></p></h1>
 
 ```
 Name: Kajal Lanjhiyana
