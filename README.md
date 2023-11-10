@@ -1,4 +1,6 @@
-<h1 align = "center"><br>Hey There!<br><img src = "https://raw.githubusercontent.com/Einsteinia11/ima/main/sun_flower.jpg" height=100 width = 100><p align="left"> <img src=https://komarev.com/ghpvc/?username=Einsteinia11 alt=Einsteinia11/></p></h1>
+<h1 align = "center"><br>Hey There!<br>
+<h3 align="center"><img src="https://github.com/CDC-KajalL/CDC-KajalL/assets/149703593/4c32dd2e-18ed-4c55-859e-164facd50c41" height=200></h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Einsteinia11 alt=Einsteinia11/></p></h1>
 
 ```
 Name: Kajal Lanjhiyana
